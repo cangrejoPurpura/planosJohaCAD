@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4200 2970" width="4200" height="2970" style="background:#FFFFFF;font-family:'Segoe UI',Arial,Helvetica,sans-serif;">
+<rect x="0" y="0" width="4200" height="2970" fill="#FFFFFF" />
+<rect x="30" y="30" width="4140" height="2910" fill="none" stroke="#0F0F0F" stroke-width="2" />
+<rect x="65" y="65" width="4070" height="2840" fill="none" stroke="#0F0F0F" stroke-width="5" />
+<text x="268.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="268.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="675.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="675.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">2</text>
+<line x1="472" y1="30" x2="472" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="472" y1="2905" x2="472" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="1082.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="1082.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">3</text>
+<line x1="879" y1="30" x2="879" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="879" y1="2905" x2="879" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="1489.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="1489.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="1286" y1="30" x2="1286" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="1286" y1="2905" x2="1286" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="1896.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="1896.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5</text>
+<line x1="1693" y1="30" x2="1693" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="1693" y1="2905" x2="1693" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="2303.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="2303.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">6</text>
+<line x1="2100" y1="30" x2="2100" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="2100" y1="2905" x2="2100" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="2710.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="2710.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">7</text>
+<line x1="2507" y1="30" x2="2507" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="2507" y1="2905" x2="2507" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="3117.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="3117.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">8</text>
+<line x1="2914" y1="30" x2="2914" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="2914" y1="2905" x2="2914" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="3524.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="3524.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">9</text>
+<line x1="3321" y1="30" x2="3321" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="3321" y1="2905" x2="3321" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="3931.5" y="47" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">10</text>
+<text x="3931.5" y="2923" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="3728" y1="30" x2="3728" y2="65" stroke="#787878" stroke-width="1.5" />
+<line x1="3728" y1="2905" x2="3728" y2="2940" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="267.86" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">A</text>
+<text x="4153" y="267.86" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">A</text>
+<text x="47" y="673.57" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">B</text>
+<text x="4153" y="673.57" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">B</text>
+<line x1="30" y1="470.71" x2="65" y2="470.71" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="470.71" x2="4170" y2="470.71" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="1079.29" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">C</text>
+<text x="4153" y="1079.29" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">C</text>
+<line x1="30" y1="876.43" x2="65" y2="876.43" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="876.43" x2="4170" y2="876.43" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="1485" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">D</text>
+<text x="4153" y="1485" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">D</text>
+<line x1="30" y1="1282.14" x2="65" y2="1282.14" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="1282.14" x2="4170" y2="1282.14" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="1890.71" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">E</text>
+<text x="4153" y="1890.71" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">E</text>
+<line x1="30" y1="1687.86" x2="65" y2="1687.86" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="1687.86" x2="4170" y2="1687.86" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="2296.43" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">F</text>
+<text x="4153" y="2296.43" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">F</text>
+<line x1="30" y1="2093.57" x2="65" y2="2093.57" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="2093.57" x2="4170" y2="2093.57" stroke="#787878" stroke-width="1.5" />
+<text x="47" y="2702.14" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">G</text>
+<text x="4153" y="2702.14" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">G</text>
+<line x1="30" y1="2499.29" x2="65" y2="2499.29" stroke="#787878" stroke-width="1.5" />
+<line x1="4135" y1="2499.29" x2="4170" y2="2499.29" stroke="#787878" stroke-width="1.5" />
+<rect x="90" y="85" width="4020" height="95" fill="#FAFAFA" stroke="#0F0F0F" stroke-width="2.5" />
+<line x1="490" y1="85" x2="490" y2="180" stroke="#0F0F0F" stroke-width="2.5" />
+<line x1="3440" y1="85" x2="3440" y2="180" stroke="#0F0F0F" stroke-width="2.5" />
+<text x="290" y="118" font-size="28px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PLANO CAD #04 / 20</text>
+<text x="290" y="154" font-size="19px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">TIPOLOGÍA: 1 PLANTA COMPLETA</text>
+<text x="520" y="118" font-size="28px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">OPCIÓN 04 (1 PLANTA): GRAN PABELLÓN SOCIAL POSTERIOR Y TALLER INDEPENDIENTE</text>
+<text x="520" y="154" font-size="19px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">Cocina-Living-Comedor ocupan todo el ancho hacia la Galería y Piscina; dormitorios centrales</text>
+<text x="3775" y="118" font-size="22px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">TERRENO: 16.00m x 34.00m (544 m²)</text>
+<text x="3775" y="154" font-size="17px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">VISTA EN PLANTA TÉCNICA | BLANCO, NEGRO Y GRISES</text>
+<rect x="90" y="200" width="2960" height="2660" fill="none" stroke="#0F0F0F" stroke-width="2" />
+<rect x="90" y="200" width="2960" height="54" fill="#F4F4F4" stroke="#0F0F0F" stroke-width="2" />
+<text x="114" y="227" font-size="21px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">PLANTA ÚNICA (NIVEL +0.00 m) - DISTRIBUCIÓN INTEGRAL EN 1 PLANTA COMPLETA</text>
+<line x1="1095.24" y1="394" x2="1095.24" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1163.06" y1="394" x2="1163.06" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1230.88" y1="394" x2="1230.88" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1298.71" y1="394" x2="1298.71" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1366.53" y1="394" x2="1366.53" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1434.35" y1="394" x2="1434.35" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1502.18" y1="394" x2="1502.18" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1570" y1="394" x2="1570" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1637.82" y1="394" x2="1637.82" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1705.65" y1="394" x2="1705.65" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1773.47" y1="394" x2="1773.47" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1841.29" y1="394" x2="1841.29" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1909.12" y1="394" x2="1909.12" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1976.94" y1="394" x2="1976.94" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="2044.77" y1="394" x2="2044.77" y2="2700" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="461.82" x2="2112.59" y2="461.82" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="529.65" x2="2112.59" y2="529.65" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="597.47" x2="2112.59" y2="597.47" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="665.29" x2="2112.59" y2="665.29" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="733.12" x2="2112.59" y2="733.12" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="800.94" x2="2112.59" y2="800.94" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="868.76" x2="2112.59" y2="868.76" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="936.59" x2="2112.59" y2="936.59" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1004.41" x2="2112.59" y2="1004.41" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1072.24" x2="2112.59" y2="1072.24" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1140.06" x2="2112.59" y2="1140.06" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1207.88" x2="2112.59" y2="1207.88" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1275.71" x2="2112.59" y2="1275.71" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1343.53" x2="2112.59" y2="1343.53" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1411.35" x2="2112.59" y2="1411.35" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1479.18" x2="2112.59" y2="1479.18" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1547" x2="2112.59" y2="1547" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1614.82" x2="2112.59" y2="1614.82" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1682.65" x2="2112.59" y2="1682.65" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1750.47" x2="2112.59" y2="1750.47" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1818.29" x2="2112.59" y2="1818.29" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1886.12" x2="2112.59" y2="1886.12" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="1953.94" x2="2112.59" y2="1953.94" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2021.77" x2="2112.59" y2="2021.77" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2089.59" x2="2112.59" y2="2089.59" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2157.41" x2="2112.59" y2="2157.41" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2225.24" x2="2112.59" y2="2225.24" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2293.06" x2="2112.59" y2="2293.06" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2360.88" x2="2112.59" y2="2360.88" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2428.71" x2="2112.59" y2="2428.71" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2496.53" x2="2112.59" y2="2496.53" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2564.35" x2="2112.59" y2="2564.35" stroke="#F2F2F2" stroke-width="1" />
+<line x1="1027.41" y1="2632.18" x2="2112.59" y2="2632.18" stroke="#F2F2F2" stroke-width="1" />
+<text x="1570" y="308" font-size="15px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">FONDO DEL LOTE - ORIENTACIÓN NORTE / ASOLEAMIENTO PRINCIPAL (PATIO TRASERO Y PISCINA)</text>
+<text x="1570" y="2802" font-size="15px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">FRENTE DEL LOTE - LÍNEA MUNICIPAL / ACCESO PEATONAL Y VEHICULAR (CALLE)</text>
+<rect x="1007.41" y="2818" width="1125.18" height="28" fill="#F8F8F8" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="8,4" />
+<text x="1570" y="2832" font-size="13px" font-weight="bold" fill="#787878" text-anchor="middle" dominant-baseline="central">VEREDA MUNICIPAL Y CALZADA DE ACCESO</text>
+<rect x="1027.41" y="394" width="94.95" height="2306" fill="#FAFAFA" stroke="#4B4B4B" stroke-width="1.5" stroke-dasharray="6,4" />
+<line x1="1074.89" y1="406" x2="1074.89" y2="2688" stroke="#4B4B4B" stroke-width="1.8" stroke-dasharray="10,6" />
+<polygon points="1074.89,444 1067.89,458 1081.89,458" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,584 1067.89,598 1081.89,598" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,724 1067.89,738 1081.89,738" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,864 1067.89,878 1081.89,878" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1004 1067.89,1018 1081.89,1018" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1144 1067.89,1158 1081.89,1158" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1284 1067.89,1298 1081.89,1298" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1424 1067.89,1438 1081.89,1438" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1564 1067.89,1578 1081.89,1578" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1704 1067.89,1718 1081.89,1718" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1844 1067.89,1858 1081.89,1858" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,1984 1067.89,1998 1081.89,1998" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,2124 1067.89,2138 1081.89,2138" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,2264 1067.89,2278 1081.89,2278" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,2404 1067.89,2418 1081.89,2418" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<polygon points="1074.89,2544 1067.89,2558 1081.89,2558" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="1" />
+<rect x="1029.41" y="394" width="90.95" height="6" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="2" />
+<rect x="1029.41" y="2694" width="90.95" height="6" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="2" />
+<rect x="1122.37" y="394" width="990.22" height="644.32" fill="none" stroke="#787878" stroke-width="1.2" stroke-dasharray="8,4" />
+<circle cx="1208.97" cy="480.61" r="74.61" fill="#FBFBFB" stroke="#787878" stroke-width="1.2" stroke-dasharray="5,3" />
+<circle cx="1208.97" cy="480.61" r="14.92" fill="none" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1227.62" y1="480.61" x2="1272.39" y2="480.61" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1222.16" y1="493.79" x2="1253.81" y2="525.45" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1208.97" y1="499.26" x2="1208.97" y2="544.02" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1195.78" y1="493.79" x2="1164.13" y2="525.45" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1190.32" y1="480.61" x2="1145.56" y2="480.61" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1195.78" y1="467.42" x2="1164.13" y2="435.76" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1208.97" y1="461.95" x2="1208.97" y2="417.19" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1222.16" y1="467.42" x2="1253.81" y2="435.76" stroke="#AFAFAF" stroke-width="1" />
+<circle cx="2025.98" cy="480.61" r="63.42" fill="#FBFBFB" stroke="#787878" stroke-width="1.2" stroke-dasharray="5,3" />
+<circle cx="2025.98" cy="480.61" r="12.68" fill="none" stroke="#4B4B4B" stroke-width="1" />
+<line x1="2041.84" y1="480.61" x2="2079.89" y2="480.61" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2037.19" y1="491.82" x2="2064.1" y2="518.72" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2025.98" y1="496.46" x2="2025.98" y2="534.51" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2014.77" y1="491.82" x2="1987.87" y2="518.72" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2010.13" y1="480.61" x2="1972.08" y2="480.61" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2014.77" y1="469.4" x2="1987.87" y2="442.49" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2025.98" y1="464.75" x2="2025.98" y2="426.7" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2037.19" y1="469.4" x2="2064.1" y2="442.49" stroke="#AFAFAF" stroke-width="1" />
+<rect x="1458.09" y="499.13" width="590.06" height="305.21" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<rect x="1488.61" y="529.65" width="529.02" height="244.16" fill="#F7F7F7" stroke="#0F0F0F" stroke-width="2.8" />
+<rect x="1493.61" y="534.65" width="519.02" height="234.16" fill="none" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1500.61" y1="560.17" x2="2005.64" y2="560.17" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="590.69" x2="2005.64" y2="590.69" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="621.21" x2="2005.64" y2="621.21" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="651.73" x2="2005.64" y2="651.73" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="682.25" x2="2005.64" y2="682.25" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="712.77" x2="2005.64" y2="712.77" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1500.61" y1="743.29" x2="2005.64" y2="743.29" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="12,6" />
+<line x1="1508.96" y1="534.65" x2="1508.96" y2="616.04" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1529.31" y1="534.65" x2="1529.31" y2="616.04" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1549.65" y1="534.65" x2="1549.65" y2="616.04" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1570" y1="534.65" x2="1570" y2="616.04" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1493.61" y1="616.04" x2="1575" y2="616.04" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1956.77" y="539.65" width="50.87" height="53.41" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<line x1="1956.77" y1="553.89" x2="2007.64" y2="553.89" stroke="#787878" stroke-width="1.2" />
+<rect x="1122.37" y="1038.32" width="990.22" height="203.47" fill="#FCFCFC" stroke="#0F0F0F" stroke-width="1.8" stroke-dasharray="10,5" />
+<rect x="1122.37" y="1038.32" width="14.92" height="14.92" fill="#0F0F0F" />
+<rect x="2097.67" y="1038.32" width="14.92" height="14.92" fill="#0F0F0F" />
+<rect x="1610.02" y="1038.32" width="14.92" height="14.92" fill="#0F0F0F" />
+<rect x="1132.37" y="1046.32" width="162.78" height="57.65" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="2" />
+<rect x="1136.37" y="1050.32" width="94.41" height="49.65" fill="none" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="1140.37" y1="1050.32" x2="1140.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1146.37" y1="1050.32" x2="1146.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1152.37" y1="1050.32" x2="1152.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1158.37" y1="1050.32" x2="1158.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1164.37" y1="1050.32" x2="1164.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1170.37" y1="1050.32" x2="1170.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1176.37" y1="1050.32" x2="1176.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1182.37" y1="1050.32" x2="1182.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1188.37" y1="1050.32" x2="1188.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1194.37" y1="1050.32" x2="1194.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1200.37" y1="1050.32" x2="1200.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1206.37" y1="1050.32" x2="1206.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1212.37" y1="1050.32" x2="1212.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1218.37" y1="1050.32" x2="1218.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1224.37" y1="1050.32" x2="1224.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1230.37" y1="1050.32" x2="1230.37" y2="1099.97" stroke="#4B4B4B" stroke-width="1" />
+<rect x="1236.78" y="1052.32" width="52.37" height="45.65" fill="none" stroke="#4B4B4B" stroke-width="1.2" />
+<circle cx="1262.96" cy="1075.15" r="3" fill="none" stroke="#0F0F0F" stroke-width="1" />
+<text x="1181.57" y="1114.97" font-size="11px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PARRILLA</text>
+<rect x="1958.94" y="1102.76" width="135.65" height="74.61" fill="#FFFFFF" stroke="#787878" stroke-width="1.4" />
+<rect x="1967.98" y="1096.76" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="1967.98" y="1178.36" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="2013.2" y="1096.76" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="2013.2" y="1178.36" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="2058.42" y="1096.76" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="2058.42" y="1178.36" width="24.42" height="5" fill="none" stroke="#787878" stroke-width="1" />
+<rect x="1122.37" y="2225.24" width="990.22" height="474.76" fill="none" stroke="#787878" stroke-width="1.2" stroke-dasharray="8,4" />
+<circle cx="1200.83" cy="2303.7" r="66.47" fill="#FBFBFB" stroke="#787878" stroke-width="1.2" stroke-dasharray="5,3" />
+<circle cx="1200.83" cy="2303.7" r="13.29" fill="none" stroke="#4B4B4B" stroke-width="1" />
+<line x1="1217.45" y1="2303.7" x2="1257.33" y2="2303.7" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1212.58" y1="2315.45" x2="1240.78" y2="2343.65" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1200.83" y1="2320.32" x2="1200.83" y2="2360.2" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1189.08" y1="2315.45" x2="1160.88" y2="2343.65" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1184.22" y1="2303.7" x2="1144.34" y2="2303.7" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1189.08" y1="2291.95" x2="1160.88" y2="2263.75" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1200.83" y1="2287.09" x2="1200.83" y2="2247.21" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1212.58" y1="2291.95" x2="1240.78" y2="2263.75" stroke="#AFAFAF" stroke-width="1" />
+<circle cx="2034.12" cy="2303.7" r="56.5" fill="#FBFBFB" stroke="#787878" stroke-width="1.2" stroke-dasharray="5,3" />
+<circle cx="2034.12" cy="2303.7" r="11.3" fill="none" stroke="#4B4B4B" stroke-width="1" />
+<line x1="2048.25" y1="2303.7" x2="2082.14" y2="2303.7" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2044.11" y1="2313.69" x2="2068.08" y2="2337.66" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2034.12" y1="2317.83" x2="2034.12" y2="2351.73" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2024.13" y1="2313.69" x2="2000.16" y2="2337.66" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2020" y1="2303.7" x2="1986.1" y2="2303.7" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2024.13" y1="2293.72" x2="2000.16" y2="2269.75" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2034.12" y1="2289.58" x2="2034.12" y2="2255.68" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2044.11" y1="2293.72" x2="2068.08" y2="2269.75" stroke="#AFAFAF" stroke-width="1" />
+<rect x="1122.37" y="394" width="284.86" height="203.47" fill="#FFFFFF" />
+<rect x="1133.79" y="404.43" width="149.21" height="47.48" fill="#F5F5F5" stroke="#0F0F0F" stroke-width="1.6" />
+<line x1="1133.79" y1="404.43" x2="1283" y2="451.9" stroke="#787878" stroke-width="1" />
+<rect x="1362.89" y="404.43" width="33.91" height="182.62" fill="#F8F8F8" stroke="#4B4B4B" stroke-width="1.3" />
+<rect x="1122.37" y="394" width="284.86" height="203.47" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1116.94" y="388.57" width="295.71" height="214.32" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1127.79" y="399.43" width="274.01" height="192.62" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1122.37" y="1241.79" width="637.54" height="339.12" fill="#FFFFFF" />
+<rect x="1145.79" y="1263.22" width="149.21" height="78" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.5" />
+<rect x="1155.74" y="1257.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1155.74" y="1342.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1205.48" y="1257.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1205.48" y="1342.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1255.21" y="1257.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1255.21" y="1342.22" width="26.86" height="5" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1562.14" y="1507.36" width="176.34" height="54.12" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.5" />
+<rect x="1684.36" y="1432.62" width="54.12" height="128.86" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.5" />
+<rect x="1588.59" y="1455.82" width="74.06" height="38.66" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<rect x="1122.37" y="1241.79" width="637.54" height="339.12" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1116.94" y="1236.37" width="648.39" height="349.97" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1127.79" y="1247.22" width="626.69" height="328.27" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1759.91" y="1241.79" width="352.68" height="339.12" fill="#FFFFFF" />
+<line x1="1793.82" y1="1241.79" x2="1793.82" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1827.73" y1="1241.79" x2="1827.73" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1861.64" y1="1241.79" x2="1861.64" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1895.55" y1="1241.79" x2="1895.55" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1929.47" y1="1241.79" x2="1929.47" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1963.38" y1="1241.79" x2="1963.38" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1997.29" y1="1241.79" x2="1997.29" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2031.2" y1="1241.79" x2="2031.2" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2065.11" y1="1241.79" x2="2065.11" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2099.02" y1="1241.79" x2="2099.02" y2="1580.91" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1275.71" x2="2112.59" y2="1275.71" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1309.62" x2="2112.59" y2="1309.62" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1343.53" x2="2112.59" y2="1343.53" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1377.44" x2="2112.59" y2="1377.44" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1411.35" x2="2112.59" y2="1411.35" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1445.27" x2="2112.59" y2="1445.27" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1479.18" x2="2112.59" y2="1479.18" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1513.09" x2="2112.59" y2="1513.09" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1759.91" y1="1547" x2="2112.59" y2="1547" stroke="#EEEEEE" stroke-width="0.8" />
+<rect x="1769.33" y="1251.22" width="333.83" height="42.05" fill="#FAFAFA" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1769.33" y="1251.22" width="42.05" height="320.27" fill="#FAFAFA" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1821.38" y="1257.95" width="26.83" height="28.59" fill="#FFFFFF" stroke="#787878" stroke-width="1.1" />
+<rect x="1852.21" y="1257.95" width="26.83" height="28.59" fill="#FFFFFF" stroke="#787878" stroke-width="1.1" />
+<rect x="1897.03" y="1257.95" width="47.48" height="28.59" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="1.3" />
+<circle cx="1910.33" cy="1267.1" r="3.5" fill="none" stroke="#0F0F0F" stroke-width="1" />
+<circle cx="1931.22" cy="1267.1" r="3.5" fill="none" stroke="#0F0F0F" stroke-width="1" />
+<circle cx="1910.33" cy="1277.39" r="3.5" fill="none" stroke="#0F0F0F" stroke-width="1" />
+<circle cx="1931.22" cy="1277.39" r="3.5" fill="none" stroke="#0F0F0F" stroke-width="1" />
+<rect x="1886.06" y="1497.05" width="142.43" height="64.43" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="1.6" />
+<circle cx="1909.8" cy="1567.49" r="5" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<circle cx="1957.27" cy="1567.49" r="5" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<circle cx="2004.75" cy="1567.49" r="5" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<rect x="1759.91" y="1241.79" width="352.68" height="339.12" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1754.48" y="1236.37" width="363.53" height="349.97" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1765.33" y="1247.22" width="341.83" height="328.27" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1122.37" y="1580.91" width="379.81" height="271.29" fill="#FFFFFF" />
+<rect x="1244.45" y="1592.34" width="135.65" height="135.65" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.5" />
+<rect x="1244.45" y="1592.34" width="135.65" height="6" fill="#AFAFAF" stroke="#0F0F0F" stroke-width="1.5" />
+<rect x="1255.3" y="1602.34" width="51.55" height="24.42" fill="none" stroke="#787878" stroke-width="1.2" />
+<rect x="1317.7" y="1602.34" width="51.55" height="24.42" fill="none" stroke="#787878" stroke-width="1.2" />
+<line x1="1244.45" y1="1634.75" x2="1380.09" y2="1634.75" stroke="#787878" stroke-width="1.2" />
+<rect x="1206.54" y="1596.34" width="33.91" height="33.91" fill="none" stroke="#787878" stroke-width="1.2" />
+<rect x="1384.09" y="1596.34" width="33.91" height="33.91" fill="none" stroke="#787878" stroke-width="1.2" />
+<rect x="1122.37" y="1580.91" width="379.81" height="271.29" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1116.94" y="1575.49" width="390.66" height="282.15" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1127.79" y="1586.34" width="368.96" height="260.44" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1122.37" y="1852.21" width="189.91" height="162.78" fill="#FFFFFF" />
+<rect x="1131.79" y="1861.63" width="171.05" height="39.34" fill="#F8F8F8" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1131.79" y="1966.22" width="171.05" height="39.34" fill="#F8F8F8" stroke="#4B4B4B" stroke-width="1.2" />
+<line x1="1139.79" y1="1863.63" x2="1139.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1139.79" y1="1970.22" x2="1139.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1147.79" y1="1863.63" x2="1147.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1147.79" y1="1970.22" x2="1147.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1155.79" y1="1863.63" x2="1155.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1155.79" y1="1970.22" x2="1155.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1163.79" y1="1863.63" x2="1163.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1163.79" y1="1970.22" x2="1163.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1171.79" y1="1863.63" x2="1171.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1171.79" y1="1970.22" x2="1171.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1179.79" y1="1863.63" x2="1179.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1179.79" y1="1970.22" x2="1179.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1187.79" y1="1863.63" x2="1187.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1187.79" y1="1970.22" x2="1187.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1195.79" y1="1863.63" x2="1195.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1195.79" y1="1970.22" x2="1195.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1203.79" y1="1863.63" x2="1203.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1203.79" y1="1970.22" x2="1203.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1211.79" y1="1863.63" x2="1211.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1211.79" y1="1970.22" x2="1211.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1219.79" y1="1863.63" x2="1219.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1219.79" y1="1970.22" x2="1219.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1227.79" y1="1863.63" x2="1227.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1227.79" y1="1970.22" x2="1227.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1235.79" y1="1863.63" x2="1235.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1235.79" y1="1970.22" x2="1235.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1243.79" y1="1863.63" x2="1243.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1243.79" y1="1970.22" x2="1243.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1251.79" y1="1863.63" x2="1251.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1251.79" y1="1970.22" x2="1251.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1259.79" y1="1863.63" x2="1259.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1259.79" y1="1970.22" x2="1259.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1267.79" y1="1863.63" x2="1267.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1267.79" y1="1970.22" x2="1267.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1275.79" y1="1863.63" x2="1275.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1275.79" y1="1970.22" x2="1275.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1283.79" y1="1863.63" x2="1283.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1283.79" y1="1970.22" x2="1283.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1291.79" y1="1863.63" x2="1291.79" y2="1896.97" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1291.79" y1="1970.22" x2="1291.79" y2="2003.56" stroke="#AFAFAF" stroke-width="1" />
+<rect x="1122.37" y="1852.21" width="189.91" height="162.78" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1116.94" y="1846.78" width="200.76" height="173.63" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1127.79" y="1857.63" width="179.05" height="151.92" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1312.27" y="1852.21" width="189.91" height="162.78" fill="#FFFFFF" />
+<line x1="1346.18" y1="1852.21" x2="1346.18" y2="2014.98" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1380.09" y1="1852.21" x2="1380.09" y2="2014.98" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1414.01" y1="1852.21" x2="1414.01" y2="2014.98" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1447.92" y1="1852.21" x2="1447.92" y2="2014.98" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1481.83" y1="1852.21" x2="1481.83" y2="2014.98" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1312.27" y1="1886.12" x2="1502.18" y2="1886.12" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1312.27" y1="1920.03" x2="1502.18" y2="1920.03" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1312.27" y1="1953.94" x2="1502.18" y2="1953.94" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1312.27" y1="1987.85" x2="1502.18" y2="1987.85" stroke="#EEEEEE" stroke-width="0.8" />
+<rect x="1323.7" y="1861.63" width="64.43" height="35.27" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.3" />
+<circle cx="1355.91" cy="1879.27" r="11.29" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1325.7" y="1990.13" width="30.52" height="15.43" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<circle cx="1340.96" cy="1976.9" r="13.73" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1428.32" y="1861.63" width="64.43" height="81.39" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.3" />
+<line x1="1428.32" y1="1861.63" x2="1492.75" y2="1943.02" stroke="#AFAFAF" stroke-width="1" />
+<line x1="1492.75" y1="1861.63" x2="1428.32" y2="1943.02" stroke="#AFAFAF" stroke-width="1" />
+<circle cx="1460.53" cy="1902.33" r="4" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="1.2" />
+<rect x="1312.27" y="1852.21" width="189.91" height="162.78" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1306.85" y="1846.78" width="200.76" height="173.63" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1317.7" y="1857.63" width="179.05" height="151.92" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1502.18" y="1580.91" width="217.04" height="135.65" fill="#FFFFFF" />
+<line x1="1536.09" y1="1580.91" x2="1536.09" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1570" y1="1580.91" x2="1570" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1603.91" y1="1580.91" x2="1603.91" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1637.82" y1="1580.91" x2="1637.82" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1671.74" y1="1580.91" x2="1671.74" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1705.65" y1="1580.91" x2="1705.65" y2="1716.56" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1502.18" y1="1614.82" x2="1719.21" y2="1614.82" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1502.18" y1="1648.74" x2="1719.21" y2="1648.74" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1502.18" y1="1682.65" x2="1719.21" y2="1682.65" stroke="#EEEEEE" stroke-width="0.8" />
+<rect x="1513.6" y="1590.34" width="64.43" height="31.2" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.3" />
+<circle cx="1545.82" cy="1605.94" r="9.98" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1515.6" y="1693.16" width="30.52" height="13.98" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<circle cx="1530.86" cy="1681.18" r="13.73" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1502.18" y="1580.91" width="217.04" height="135.65" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1496.75" y="1575.49" width="227.89" height="146.5" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1507.6" y="1586.34" width="206.18" height="124.8" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1502.18" y="1716.56" width="217.04" height="508.68" fill="#FFFFFF" />
+<rect x="1502.18" y="1716.56" width="217.04" height="508.68" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1496.75" y="1711.13" width="227.89" height="519.53" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1507.6" y="1721.99" width="206.18" height="497.82" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1719.21" y="1580.91" width="393.38" height="244.16" fill="#FFFFFF" />
+<rect x="1734.64" y="1592.34" width="71.21" height="130.66" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1745.32" y="1600.34" width="49.85" height="23.52" fill="none" stroke="#787878" stroke-width="1.1" />
+<line x1="1734.64" y1="1634.15" x2="1805.85" y2="1634.15" stroke="#787878" stroke-width="1.1" />
+<rect x="2014.38" y="1594.34" width="84.78" height="40.69" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<circle cx="2056.77" cy="1642.03" r="6" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1979.08" y="1776.31" width="122.08" height="39.34" fill="#F8F8F8" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1719.21" y="1580.91" width="393.38" height="244.16" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1713.79" y="1575.49" width="404.23" height="255.02" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1724.64" y="1586.34" width="382.52" height="233.31" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1719.21" y="1825.08" width="393.38" height="149.21" fill="#FFFFFF" />
+<line x1="1753.12" y1="1825.08" x2="1753.12" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1787.04" y1="1825.08" x2="1787.04" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1820.95" y1="1825.08" x2="1820.95" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1854.86" y1="1825.08" x2="1854.86" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1888.77" y1="1825.08" x2="1888.77" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1922.68" y1="1825.08" x2="1922.68" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1956.59" y1="1825.08" x2="1956.59" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1990.51" y1="1825.08" x2="1990.51" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2024.42" y1="1825.08" x2="2024.42" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2058.33" y1="1825.08" x2="2058.33" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="2092.24" y1="1825.08" x2="2092.24" y2="1974.29" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1719.21" y1="1858.99" x2="2112.59" y2="1858.99" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1719.21" y1="1892.9" x2="2112.59" y2="1892.9" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1719.21" y1="1926.81" x2="2112.59" y2="1926.81" stroke="#EEEEEE" stroke-width="0.8" />
+<line x1="1719.21" y1="1960.72" x2="2112.59" y2="1960.72" stroke="#EEEEEE" stroke-width="0.8" />
+<rect x="1730.64" y="1834.5" width="64.43" height="34.59" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.3" />
+<circle cx="1762.85" cy="1851.8" r="11.07" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1732.64" y="1949.43" width="30.52" height="15.43" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<circle cx="1747.9" cy="1936.21" r="13.73" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="2038.73" y="1834.5" width="64.43" height="81.39" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.3" />
+<line x1="2038.73" y1="1834.5" x2="2103.16" y2="1915.89" stroke="#AFAFAF" stroke-width="1" />
+<line x1="2103.16" y1="1834.5" x2="2038.73" y2="1915.89" stroke="#AFAFAF" stroke-width="1" />
+<circle cx="2070.95" cy="1875.2" r="4" fill="#FFFFFF" stroke="#0F0F0F" stroke-width="1.2" />
+<rect x="1719.21" y="1825.08" width="393.38" height="149.21" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1713.79" y="1819.65" width="404.23" height="160.06" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1724.64" y="1830.5" width="382.52" height="138.36" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1719.21" y="1974.29" width="393.38" height="250.95" fill="#FFFFFF" />
+<rect x="1734.64" y="1985.71" width="71.21" height="132.26" fill="#FFFFFF" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1745.32" y="1993.71" width="49.85" height="23.81" fill="none" stroke="#787878" stroke-width="1.1" />
+<line x1="1734.64" y1="2028.04" x2="1805.85" y2="2028.04" stroke="#787878" stroke-width="1.1" />
+<rect x="2014.38" y="1987.71" width="84.78" height="40.69" fill="#FFFFFF" stroke="#787878" stroke-width="1.2" />
+<circle cx="2056.77" cy="2035.41" r="6" fill="none" stroke="#787878" stroke-width="1.1" />
+<rect x="1979.08" y="2176.47" width="122.08" height="39.34" fill="#F8F8F8" stroke="#4B4B4B" stroke-width="1.2" />
+<rect x="1719.21" y="1974.29" width="393.38" height="250.95" fill="none" stroke="#2D2D2D" stroke-width="10.85" />
+<rect x="1713.79" y="1968.86" width="404.23" height="261.8" fill="none" stroke="#0F0F0F" stroke-width="1.6" />
+<rect x="1724.64" y="1979.71" width="382.52" height="240.1" fill="none" stroke="#0F0F0F" stroke-width="1.4" />
+<rect x="1278.36" y="1234.2" width="325.55" height="15.19" fill="#FFFFFF" />
+<rect x="1278.36" y="1235.83" width="325.55" height="11.94" fill="none" stroke="#0F0F0F" stroke-width="1.3" />
+<line x1="1282.36" y1="1239.59" x2="1451.14" y2="1239.59" stroke="#0F0F0F" stroke-width="2.2" />
+<line x1="1431.14" y1="1243.99" x2="1599.91" y2="1243.99" stroke="#0F0F0F" stroke-width="2.2" />
+<line x1="1349.98" y1="1258.56" x2="1421.6" y2="1258.56" stroke="#4B4B4B" stroke-width="1.4" />
+<line x1="1460.67" y1="1258.56" x2="1532.29" y2="1258.56" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1317.43" y="1215.94" width="247.42" height="13" fill="#FFFFFF" />
+<text x="1441.14" y="1222.94" font-size="10.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PUERTA VENTANA VIDRIO CORREDIZO</text>
+<rect x="1798.7" y="1234.2" width="275.09" height="15.19" fill="#FFFFFF" />
+<rect x="1798.7" y="1235.83" width="275.09" height="11.94" fill="none" stroke="#0F0F0F" stroke-width="1.3" />
+<line x1="1802.7" y1="1239.59" x2="1946.25" y2="1239.59" stroke="#0F0F0F" stroke-width="2.2" />
+<line x1="1926.25" y1="1243.99" x2="2069.79" y2="1243.99" stroke="#0F0F0F" stroke-width="2.2" />
+<line x1="1859.22" y1="1258.56" x2="1919.74" y2="1258.56" stroke="#4B4B4B" stroke-width="1.4" />
+<line x1="1952.75" y1="1258.56" x2="2013.27" y2="1258.56" stroke="#4B4B4B" stroke-width="1.4" />
+<rect x="1831.71" y="1215.94" width="209.07" height="13" fill="#FFFFFF" />
+<text x="1936.25" y="1222.94" font-size="10.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">VENTANAL CORREDIZO</text>
+<rect x="1752.31" y="1296.05" width="15.19" height="230.6" fill="#FFFFFF" />
+<line x1="1759.91" y1="1296.05" x2="1759.91" y2="1526.65" stroke="#AFAFAF" stroke-width="1.2" stroke-dasharray="6,4" />
+<rect x="1193.58" y="590.42" width="63.42" height="14.11" fill="#FFFFFF" />
+<line x1="1193.58" y1="597.47" x2="1193.58" y2="534.06" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1193.58 534.06 A 63.42 63.42 0 0 1 1257 597.47" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1495.12" y="1784.56" width="14.11" height="57.65" fill="#FFFFFF" />
+<line x1="1502.18" y1="1784.56" x2="1444.53" y2="1784.56" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1502.18 1842.21 A 57.65 57.65 0 0 1 1444.53 1784.56" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1115.85" y="1669.08" width="13.02" height="94.95" fill="#FFFFFF" />
+<rect x="1116.94" y="1669.08" width="10.85" height="94.95" fill="none" stroke="#0F0F0F" stroke-width="1.2" />
+<line x1="1120.87" y1="1669.08" x2="1120.87" y2="1764.04" stroke="#4B4B4B" stroke-width="1.1" />
+<line x1="1123.87" y1="1669.08" x2="1123.87" y2="1764.04" stroke="#4B4B4B" stroke-width="1.1" />
+<rect x="1246.62" y="2007.93" width="49" height="14.11" fill="#FFFFFF" />
+<line x1="1246.62" y1="2014.98" x2="1246.62" y2="1965.98" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1246.62 1965.98 A 49 49 0 0 1 1295.62 2014.98" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1436.53" y="2007.93" width="49" height="14.11" fill="#FFFFFF" />
+<line x1="1436.53" y1="2014.98" x2="1436.53" y2="1965.98" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1436.53 1965.98 A 49 49 0 0 1 1485.53 2014.98" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1659.67" y="1709.51" width="43.81" height="14.11" fill="#FFFFFF" />
+<line x1="1659.67" y1="1716.56" x2="1659.67" y2="1672.75" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1659.67 1672.75 A 43.81 43.81 0 0 1 1703.48 1716.56" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1577.55" y="2218.18" width="66.3" height="14.11" fill="#FFFFFF" />
+<line x1="1577.55" y1="2225.24" x2="1577.55" y2="2158.94" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1577.55 2158.94 A 66.3 66.3 0 0 1 1643.84 2225.24" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1712.16" y="1757.43" width="14.11" height="57.65" fill="#FFFFFF" />
+<line x1="1719.21" y1="1757.43" x2="1776.86" y2="1757.43" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1776.86 1757.43 A 57.65 57.65 0 0 1 1719.21 1815.08" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="2106.08" y="1655.52" width="13.02" height="94.95" fill="#FFFFFF" />
+<rect x="2107.16" y="1655.52" width="10.85" height="94.95" fill="none" stroke="#0F0F0F" stroke-width="1.2" />
+<line x1="2111.09" y1="1655.52" x2="2111.09" y2="1750.47" stroke="#4B4B4B" stroke-width="1.1" />
+<line x1="2114.09" y1="1655.52" x2="2114.09" y2="1750.47" stroke="#4B4B4B" stroke-width="1.1" />
+<rect x="2047.89" y="1967.24" width="48.2" height="14.11" fill="#FFFFFF" />
+<line x1="2047.89" y1="1974.29" x2="2047.89" y2="1926.09" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 2047.89 1926.09 A 48.2 48.2 0 0 1 2096.08 1974.29" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="1712.16" y="2157.59" width="14.11" height="57.65" fill="#FFFFFF" />
+<line x1="1719.21" y1="2157.59" x2="1776.86" y2="2157.59" stroke="#0F0F0F" stroke-width="1.8" />
+<path d="M 1776.86 2157.59 A 57.65 57.65 0 0 1 1719.21 2215.24" fill="none" stroke="#787878" stroke-width="1.1" stroke-dasharray="4,3" />
+<rect x="2106.08" y="2052.29" width="13.02" height="94.95" fill="#FFFFFF" />
+<rect x="2107.16" y="2052.29" width="10.85" height="94.95" fill="none" stroke="#0F0F0F" stroke-width="1.2" />
+<line x1="2111.09" y1="2052.29" x2="2111.09" y2="2147.24" stroke="#4B4B4B" stroke-width="1.1" />
+<line x1="2114.09" y1="2052.29" x2="2114.09" y2="2147.24" stroke="#4B4B4B" stroke-width="1.1" />
+<rect x="1063.89" y="1412" width="22" height="270" fill="#FFFFFF" />
+<rect x="1063.89" y="1412" width="22" height="270" fill="none" stroke="#787878" stroke-width="1" />
+<text x="1074.89" y="1547" font-size="11.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 1074.89 1547)">PASILLO PASO MÁQUINAS / MALEZAS (1.40x34.00m)</text>
+<rect x="1182.69" y="474.74" width="164.2" height="42" fill="#FCFCFC" />
+<rect x="1182.69" y="474.74" width="164.2" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1264.79" y="487.34" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">TALLER HERRAMIENTAS</text>
+<text x="1264.79" y="505.82" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">4.20 x 3.00 m (12.6 m²)</text>
+<rect x="1977.19" y="405" width="117.4" height="42" fill="#FCFCFC" />
+<rect x="1977.19" y="405" width="117.4" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="2035.89" y="417.6" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PATIO TRASERO</text>
+<text x="2035.89" y="436.08" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">14.60 x 9.50 m (138.7 m²)</text>
+<rect x="1705.12" y="630.73" width="96" height="42" fill="#FCFCFC" />
+<rect x="1705.12" y="630.73" width="96" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1753.12" y="643.33" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PISCINA</text>
+<text x="1753.12" y="661.81" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">7.80 x 3.60 m (28.1 m²)</text>
+<rect x="1539.28" y="1119.06" width="156.4" height="42" fill="#FCFCFC" />
+<rect x="1539.28" y="1119.06" width="156.4" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1617.48" y="1131.66" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">GALERÍA Y PARRILLA</text>
+<text x="1617.48" y="1150.14" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">14.60 x 3.00 m (43.8 m²)</text>
+<rect x="1370.74" y="1390.35" width="140.8" height="42" fill="#FCFCFC" />
+<rect x="1370.74" y="1390.35" width="140.8" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1441.14" y="1402.95" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">LIVING - COMEDOR</text>
+<text x="1441.14" y="1421.43" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">9.40 x 5.00 m (47.0 m²)</text>
+<rect x="1846.35" y="1390.35" width="179.8" height="42" fill="#FCFCFC" />
+<rect x="1846.35" y="1390.35" width="179.8" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1936.25" y="1402.95" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">COCINA MODERNA C/ISLA</text>
+<text x="1936.25" y="1421.43" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5.20 x 5.00 m (26.0 m²)</text>
+<rect x="1241.87" y="1695.56" width="140.8" height="42" fill="#FCFCFC" />
+<rect x="1241.87" y="1695.56" width="140.8" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1312.27" y="1708.16" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">HAB. MATRIMONIAL</text>
+<text x="1312.27" y="1726.64" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5.60 x 4.00 m (22.4 m²)</text>
+<rect x="1169.32" y="1912.59" width="96" height="42" fill="#FCFCFC" />
+<rect x="1169.32" y="1912.59" width="96" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1217.32" y="1925.19" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">VESTIDOR</text>
+<text x="1217.32" y="1943.67" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">2.80 x 2.40 m (6.7 m²)</text>
+<rect x="1329.02" y="1912.59" width="156.4" height="42" fill="#FCFCFC" />
+<rect x="1329.02" y="1912.59" width="156.4" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1407.22" y="1925.19" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">BAÑO PRIVADO SUITE</text>
+<text x="1407.22" y="1943.67" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">2.80 x 2.40 m (6.7 m²)</text>
+<rect x="1548.09" y="1627.74" width="125.2" height="42" fill="#FCFCFC" />
+<rect x="1548.09" y="1627.74" width="125.2" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1610.69" y="1640.34" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">BAÑO INVITADOS</text>
+<text x="1610.69" y="1658.82" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">3.20 x 2.00 m (6.4 m²)</text>
+<rect x="1548.09" y="1949.9" width="125.2" height="42" fill="#FCFCFC" />
+<rect x="1548.09" y="1949.9" width="125.2" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1610.69" y="1962.5" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">HALL DE ACCESO</text>
+<text x="1610.69" y="1980.98" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">3.20 x 7.50 m (24.0 m²)</text>
+<rect x="1837.7" y="1681.99" width="156.4" height="42" fill="#FCFCFC" />
+<rect x="1837.7" y="1681.99" width="156.4" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1915.9" y="1694.59" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">HABITACIÓN NIÑOS 1</text>
+<text x="1915.9" y="1713.07" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5.80 x 3.60 m (20.9 m²)</text>
+<rect x="1867.9" y="1878.68" width="96" height="42" fill="#FCFCFC" />
+<rect x="1867.9" y="1878.68" width="96" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1915.9" y="1891.28" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">BAÑO NIÑOS</text>
+<text x="1915.9" y="1909.76" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5.80 x 2.20 m (12.8 m²)</text>
+<rect x="1837.7" y="2078.76" width="156.4" height="42" fill="#FCFCFC" />
+<rect x="1837.7" y="2078.76" width="156.4" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="1915.9" y="2091.36" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">HABITACIÓN NIÑOS 2</text>
+<text x="1915.9" y="2109.84" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">5.80 x 3.70 m (21.5 m²)</text>
+<rect x="1961.59" y="2649" width="133" height="42" fill="#FCFCFC" />
+<rect x="1961.59" y="2649" width="133" height="42" fill="none" stroke="#AFAFAF" stroke-width="1" />
+<text x="2028.09" y="2661.6" font-size="12.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">PATIO DELANTERO</text>
+<text x="2028.09" y="2680.08" font-size="11px" font-weight="normal" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">14.60 x 7.00 m (102.2 m²)</text>
+<rect x="1027.41" y="394" width="1085.18" height="2306" fill="none" stroke="#0F0F0F" stroke-width="2.5" stroke-dasharray="16,6,4,6" />
+<line x1="1027.41" y1="352" x2="2112.59" y2="352" stroke="#4B4B4B" stroke-width="1.5" />
+<line x1="1027.41" y1="344" x2="1027.41" y2="360" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2112.59" y1="344" x2="2112.59" y2="360" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="1021.41" y1="358" x2="1033.41" y2="346" stroke="#0F0F0F" stroke-width="2" />
+<line x1="2106.59" y1="358" x2="2118.59" y2="346" stroke="#0F0F0F" stroke-width="2" />
+<text x="1570" y="338" font-size="13.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">ANCHO TOTAL LOTE: 16.00 m</text>
+<line x1="1027.41" y1="2746" x2="2112.59" y2="2746" stroke="#4B4B4B" stroke-width="1.5" />
+<line x1="1027.41" y1="2738" x2="1027.41" y2="2754" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2112.59" y1="2738" x2="2112.59" y2="2754" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="1021.41" y1="2752" x2="1033.41" y2="2740" stroke="#0F0F0F" stroke-width="2" />
+<line x1="2106.59" y1="2752" x2="2118.59" y2="2740" stroke="#0F0F0F" stroke-width="2" />
+<text x="1570" y="2732" font-size="13.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">FRENTE MUNICIPAL: 16.00 m</text>
+<line x1="975.41" y1="394" x2="975.41" y2="2700" stroke="#4B4B4B" stroke-width="1.5" />
+<line x1="967.41" y1="394" x2="983.41" y2="394" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="967.41" y1="2700" x2="983.41" y2="2700" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="969.41" y1="400" x2="981.41" y2="388" stroke="#0F0F0F" stroke-width="2" />
+<line x1="969.41" y1="2706" x2="981.41" y2="2694" stroke="#0F0F0F" stroke-width="2" />
+<text x="960.41" y="1547" font-size="13px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 960.41 1547)">LARGO TOTAL LOTE: 34.00 m</text>
+<line x1="2158.59" y1="394" x2="2158.59" y2="2225.24" stroke="#4B4B4B" stroke-width="1.5" />
+<line x1="2150.59" y1="394" x2="2166.59" y2="394" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2150.59" y1="2225.24" x2="2166.59" y2="2225.24" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2152.59" y1="400" x2="2164.59" y2="388" stroke="#0F0F0F" stroke-width="2" />
+<line x1="2152.59" y1="2231.24" x2="2164.59" y2="2219.24" stroke="#0F0F0F" stroke-width="2" />
+<text x="2143.59" y="1309.62" font-size="13px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 2143.59 1309.62)"> PLANTA 27.00m</text>
+<line x1="2158.59" y1="2225.24" x2="2158.59" y2="2700" stroke="#4B4B4B" stroke-width="1.5" />
+<line x1="2150.59" y1="2225.24" x2="2166.59" y2="2225.24" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2150.59" y1="2700" x2="2166.59" y2="2700" stroke="#0F0F0F" stroke-width="1.5" />
+<line x1="2152.59" y1="2231.24" x2="2164.59" y2="2219.24" stroke="#0F0F0F" stroke-width="2" />
+<line x1="2152.59" y1="2706" x2="2164.59" y2="2694" stroke="#0F0F0F" stroke-width="2" />
+<text x="2143.59" y="2462.62" font-size="13px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 2143.59 2462.62)">FRENTE 7.00m</text>
+<rect x="3080" y="200" width="1030" height="385" fill="none" stroke="#0F0F0F" stroke-width="2" />
+<rect x="3080" y="200" width="1030" height="46" fill="#F2F2F2" stroke="#0F0F0F" stroke-width="2" />
+<text x="3100" y="223" font-size="19px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">1. ESTUDIO DE ASOLEAMIENTO Y ORIENTACIÓN SOLAR</text>
+<path d="M 3208.41 392.12 A 100 100 0 0 1 3401.59 392.12" fill="none" stroke="#4B4B4B" stroke-width="2" stroke-dasharray="8,5" />
+<circle cx="3305" cy="418" r="82" fill="#FBFBFB" stroke="#0F0F0F" stroke-width="1.8" />
+<circle cx="3305" cy="418" r="53.3" fill="none" stroke="#AFAFAF" stroke-width="1" stroke-dasharray="4,4" />
+<line x1="3305" y1="500" x2="3305" y2="336" stroke="#0F0F0F" stroke-width="2" />
+<line x1="3223" y1="418" x2="3387" y2="418" stroke="#787878" stroke-width="1.5" />
+<polygon points="3305,336 3291.81,366.36 3318.19,366.36" fill="#0F0F0F" stroke="#0F0F0F" stroke-width="1.5" />
+<text x="3305" y="318" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">NORTE (SOL MEDIODÍA)</text>
+<text x="3305" y="518" font-size="13px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">SUR (FRENTE)</text>
+<text x="3399" y="418" font-size="13px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">ESTE (SOL MAÑANA)</text>
+<text x="3211" y="418" font-size="13px" font-weight="bold" fill="#0F0F0F" text-anchor="end" dominant-baseline="central">OESTE (TARDE)</text>
+<text x="3550" y="278" font-size="16px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">CRITERIO BIOCLIMÁTICO Y SOLAR:</text>
+<text x="3550" y="312" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">• NORTE (Fondo): Máximo asoleamiento en Piscina,</text>
+<text x="3550" y="336" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">  Patio Trasero, Galería-Parrilla y Living-Comedor.</text>
+<text x="3550" y="368" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">• ESTE (Mañana): Sol directo saludable sobre las</text>
+<text x="3550" y="392" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">  Habitaciones de Niños, Suite y Desayunador.</text>
+<text x="3550" y="424" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">• OESTE (Tarde): Sol cálido sobre solárium de piscina.</text>
+<text x="3550" y="456" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">• SUR / LATERAL: Servicios, Taller de Herramientas,</text>
+<text x="3550" y="480" font-size="14.5px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">  Baños y Pasillo de Paso de Máquinas / Malezas.</text>
+<text x="3550" y="520" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">• Frente vidriado corredizo de 10m orientado al Norte sobre galería y piscina.</text>
+<rect x="3080" y="605" width="1030" height="1350" fill="none" stroke="#0F0F0F" stroke-width="2" />
+<rect x="3080" y="605" width="1030" height="46" fill="#F2F2F2" stroke="#0F0F0F" stroke-width="2" />
+<text x="3100" y="628" font-size="19px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">2. CUADRO DE LOCALES, UBICACIÓN POR PISO Y MEDIDAS</text>
+<rect x="3080" y="651" width="1030" height="38" fill="#F8F8F8" stroke="#0F0F0F" stroke-width="1.5" />
+<text x="3125" y="670" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">CÓD.</text>
+<text x="3180" y="670" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">LOCAL / AMBIENTE DE LA VIVIENDA</text>
+<text x="3635" y="670" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">NIVEL / PISO</text>
+<text x="3835" y="670" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">MEDIDAS (m)</text>
+<text x="4020" y="670" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">SUP. (m²)</text>
+<line x1="3080" y1="747" x2="4110" y2="747" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="718" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L01</text>
+<text x="3180" y="718" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Pasillo Paso Máquinas</text>
+<text x="3635" y="718" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="718" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">1.40 x 34.00 m</text>
+<text x="4020" y="718" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">47.6 m²</text>
+<rect x="3082" y="747" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="805" x2="4110" y2="805" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="776" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L02</text>
+<text x="3180" y="776" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Taller Herramientas</text>
+<text x="3635" y="776" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="776" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">4.20 x 3.00 m</text>
+<text x="4020" y="776" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">12.6 m²</text>
+<line x1="3080" y1="863" x2="4110" y2="863" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="834" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L03</text>
+<text x="3180" y="834" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Patio Trasero</text>
+<text x="3635" y="834" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="834" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">14.60 x 9.50 m</text>
+<text x="4020" y="834" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">138.7 m²</text>
+<rect x="3082" y="863" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="921" x2="4110" y2="921" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="892" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L04</text>
+<text x="3180" y="892" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Piscina</text>
+<text x="3635" y="892" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="892" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">7.80 x 3.60 m</text>
+<text x="4020" y="892" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">28.1 m²</text>
+<line x1="3080" y1="979" x2="4110" y2="979" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="950" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L05</text>
+<text x="3180" y="950" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Galería y Parrilla</text>
+<text x="3635" y="950" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="950" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">14.60 x 3.00 m</text>
+<text x="4020" y="950" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">43.8 m²</text>
+<rect x="3082" y="979" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1037" x2="4110" y2="1037" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1008" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L06</text>
+<text x="3180" y="1008" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Living - Comedor</text>
+<text x="3635" y="1008" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1008" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">9.40 x 5.00 m</text>
+<text x="4020" y="1008" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">47.0 m²</text>
+<line x1="3080" y1="1095" x2="4110" y2="1095" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1066" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L07</text>
+<text x="3180" y="1066" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Cocina Moderna c/Isla</text>
+<text x="3635" y="1066" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1066" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">5.20 x 5.00 m</text>
+<text x="4020" y="1066" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">26.0 m²</text>
+<rect x="3082" y="1095" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1153" x2="4110" y2="1153" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1124" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L08</text>
+<text x="3180" y="1124" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Hab. Matrimonial</text>
+<text x="3635" y="1124" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1124" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">5.60 x 4.00 m</text>
+<text x="4020" y="1124" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">22.4 m²</text>
+<line x1="3080" y1="1211" x2="4110" y2="1211" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1182" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L09</text>
+<text x="3180" y="1182" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Vestidor</text>
+<text x="3635" y="1182" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1182" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">2.80 x 2.40 m</text>
+<text x="4020" y="1182" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">6.7 m²</text>
+<rect x="3082" y="1211" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1269" x2="4110" y2="1269" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1240" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L10</text>
+<text x="3180" y="1240" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Baño Privado Suite</text>
+<text x="3635" y="1240" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1240" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">2.80 x 2.40 m</text>
+<text x="4020" y="1240" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">6.7 m²</text>
+<line x1="3080" y1="1327" x2="4110" y2="1327" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1298" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L11</text>
+<text x="3180" y="1298" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Baño Invitados</text>
+<text x="3635" y="1298" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1298" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">3.20 x 2.00 m</text>
+<text x="4020" y="1298" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">6.4 m²</text>
+<rect x="3082" y="1327" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1385" x2="4110" y2="1385" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1356" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L12</text>
+<text x="3180" y="1356" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Hall de Acceso</text>
+<text x="3635" y="1356" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1356" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">3.20 x 7.50 m</text>
+<text x="4020" y="1356" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">24.0 m²</text>
+<line x1="3080" y1="1443" x2="4110" y2="1443" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1414" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L13</text>
+<text x="3180" y="1414" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Habitación Niños 1</text>
+<text x="3635" y="1414" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1414" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">5.80 x 3.60 m</text>
+<text x="4020" y="1414" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">20.9 m²</text>
+<rect x="3082" y="1443" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1501" x2="4110" y2="1501" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1472" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L14</text>
+<text x="3180" y="1472" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Baño Niños</text>
+<text x="3635" y="1472" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1472" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">5.80 x 2.20 m</text>
+<text x="4020" y="1472" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">12.8 m²</text>
+<line x1="3080" y1="1559" x2="4110" y2="1559" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1530" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L15</text>
+<text x="3180" y="1530" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Habitación Niños 2</text>
+<text x="3635" y="1530" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1530" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">5.80 x 3.70 m</text>
+<text x="4020" y="1530" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">21.5 m²</text>
+<rect x="3082" y="1559" width="1026" height="58" fill="#FAFAFA" />
+<line x1="3080" y1="1617" x2="4110" y2="1617" stroke="#DCDCDC" stroke-width="1" />
+<text x="3125" y="1588" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">L16</text>
+<text x="3180" y="1588" font-size="14.5px" font-weight="normal" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">Patio Delantero</text>
+<text x="3635" y="1588" font-size="13.5px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">PLANTA ÚNICA (+0.00)</text>
+<text x="3835" y="1588" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">14.60 x 7.00 m</text>
+<text x="4020" y="1588" font-size="14px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">102.2 m²</text>
+<rect x="3080" y="1891" width="1030" height="64" fill="#F2F2F2" stroke="#0F0F0F" stroke-width="2" />
+<text x="3595" y="1923" font-size="15.5px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">SUP. CUBIERTA TOTAL: 206.9 m²   |   SUP. SEMICUBIERTA (GALERÍA/PARRILLA): 43.8 m²   |   LOTE: 544.0 m²</text>
+<rect x="3080" y="1975" width="1030" height="885" fill="none" stroke="#0F0F0F" stroke-width="2.5" />
+<rect x="3080" y="1975" width="1030" height="46" fill="#F2F2F2" stroke="#0F0F0F" stroke-width="2" />
+<text x="3100" y="1998" font-size="19px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">3. MEMORIA FUNCIONAL Y RÓTULO TÉCNICO CAD</text>
+<text x="3102" y="2051" font-size="15px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">CRITERIO DE NIVELES: 1 PLANTA COMPLETA: Secuencia privada adelante y gran salón social al jardín.</text>
+<text x="3102" y="2085" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ Habitación Matrimonial con Vestidor walk-in y Baño Privado en suite.</text>
+<text x="3102" y="2111" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ 2 Habitaciones para Niños con placares + Baño de Niños + Baño de Invitados (Toilette).</text>
+<text x="3102" y="2137" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ Hall de ingreso + Cocina-Living-Comedor modernos + Galería con Parrilla.</text>
+<text x="3102" y="2163" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ Puertas al Patio Trasero de Ventana de Vidrio Corredizo (DVH gran abertura).</text>
+<text x="3102" y="2189" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ Pasillo lateral conecta Patio Delantero con Patio Trasero (Paso de Máquinas y Malezas).</text>
+<text x="3102" y="2215" font-size="14px" font-weight="normal" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">✓ Taller para Herramientas con banco de trabajo + Piscina asoleada en Patio Trasero.</text>
+<line x1="3080" y1="2725" x2="4110" y2="2725" stroke="#0F0F0F" stroke-width="2.5" />
+<line x1="3720" y1="2725" x2="3720" y2="2860" stroke="#0F0F0F" stroke-width="2" />
+<line x1="3720" y1="2793" x2="4110" y2="2793" stroke="#0F0F0F" stroke-width="1.5" />
+<text x="3102" y="2759" font-size="17px" font-weight="bold" fill="#0F0F0F" text-anchor="start" dominant-baseline="central">PROYECTO: VIVIENDA UNIFAMILIAR - COLECCIÓN 20 PLANOS CAD</text>
+<text x="3102" y="2795" font-size="16px" font-weight="bold" fill="#4B4B4B" text-anchor="start" dominant-baseline="central">Opción 04 (1 Planta): Gran Pabellón Social Posterior y Taller Independiente</text>
+<text x="3102" y="2829" font-size="13px" font-weight="normal" fill="#787878" text-anchor="start" dominant-baseline="central">FORMATO: VECTORIAL (.SVG) + ULTRA-HD (.JPG 4200x2970px SIN PIXELADO) | ESCALA GRÁFICA MÉTRICA</text>
+<text x="3915" y="2759" font-size="24px" font-weight="bold" fill="#0F0F0F" text-anchor="middle" dominant-baseline="central">LÁMINA CAD 04 / 20</text>
+<text x="3915" y="2827" font-size="18px" font-weight="bold" fill="#4B4B4B" text-anchor="middle" dominant-baseline="central">1 PLANTA COMPLETA</text>
+</svg>

@@ -1,0 +1,430 @@
+﻿<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<title>Catálogo Interactivo - 20 Planos Arquitectónicos CAD</title>
+<style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f4f4f4; color: #111; margin: 0; padding: 0; }
+    header { background: #111; color: #fff; padding: 24px 40px; border-bottom: 4px solid #555; }
+    header h1 { margin: 0 0 8px 0; font-size: 26px; letter-spacing: 0.5px; }
+    header p { margin: 0; color: #ccc; font-size: 15px; }
+    .toolbar { background: #fff; padding: 16px 40px; border-bottom: 1px solid #ddd; display: flex; gap: 12px; align-items: center; position: sticky; top: 0; z-index: 10; }
+    .filter-btn { padding: 8px 18px; border: 1.5px solid #222; background: #fff; color: #111; font-weight: 600; cursor: pointer; border-radius: 4px; }
+    .filter-btn.active, .filter-btn:hover { background: #111; color: #fff; }
+    .container { max-width: 1700px; margin: 28px auto; padding: 0 24px; display: grid; grid-template-columns: 1fr; gap: 32px; }
+    .card { background: #fff; border: 2px solid #222; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+    .card-header { padding: 16px 24px; background: #fafafa; border-bottom: 1.5px solid #222; }
+    .badge { display: inline-block; background: #222; color: #fff; font-size: 12px; font-weight: bold; padding: 4px 10px; margin-bottom: 6px; }
+    .card-header h2 { margin: 4px 0; font-size: 20px; }
+    .card-header p { margin: 4px 0 0 0; color: #444; font-size: 14px; }
+    .card-body { padding: 16px; background: #fff; text-align: center; overflow-x: auto; }
+    .card-body img { width: 100%; height: auto; border: 1px solid #ccc; display: block; }
+    .card-footer { padding: 14px 24px; background: #f0f0f0; border-top: 1px solid #ccc; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; font-size: 14px; }
+    .btns { display: flex; gap: 10px; }
+    .btn { text-decoration: none; background: #111; color: #fff; padding: 8px 14px; font-weight: 600; font-size: 13px; border-radius: 3px; }
+    .btn-sec { background: #555; }
+</style>
+</head>
+<body>
+<header>
+    <h1>COLECCIÓN DE 20 PLANOS ARQUITECTÓNICOS CAD — VIVIENDA UNIFAMILIAR</h1>
+    <p>Estética Técnica en Blanco, Negro y Grises | 10 Opciones de 1 Planta Completa + 10 Opciones de 2 Pisos (PB y PA) | Incluye medidas, orientación solar, piscina, parrilla, taller de herramientas y pasillo de máquinas</p>
+</header>
+<div class='toolbar'>
+    <strong>Filtrar por Tipología:</strong>
+    <button class='filter-btn active' onclick="filterPlans('all', this)">Todos los Planos (20)</button>
+    <button class='filter-btn' onclick="filterPlans('1', this)">Opciones de 1 Planta Completa (01 al 10)</button>
+    <button class='filter-btn' onclick="filterPlans('2', this)">Opciones de 2 Pisos PB + PA (11 al 20)</button>
+</div>
+<div class='container' id='grid'>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #01: Opción 01 (1 Planta): Distribución Compacta con Pasillo Izquierdo</h2>
+                        <p>Sector Social al Norte conectado a Galería-Parrilla y Piscina; Ala de Dormitorios al Este — <strong>Terreno: 15.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_01_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_01_1_Planta.svg' alt='Opción 01 (1 Planta): Distribución Compacta con Pasillo Izquierdo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Todos los locales se desarrollan en Nivel +0.00m sin escaleras.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_01_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_01_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #02: Opción 02 (1 Planta): Tipología en 'L' con Pasillo Derecho y Taller al Fondo</h2>
+                        <p>Esquema en 'L' que protege del viento el Patio Trasero y la Piscina; paso de máquinas por derecha — <strong>Terreno: 16.00 x 32.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_02_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_02_1_Planta.svg' alt='Opción 02 (1 Planta): Tipología en 'L' con Pasillo Derecho y Taller al Fondo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Planta en 'L' articulada alrededor del jardín y la piscina.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_02_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_02_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #03: Opción 03 (1 Planta): Tipología en 'U' con Piscina Central y Taller Lateral</h2>
+                        <p>Dos alas laterales abrazan el Patio Trasero y la Piscina; ventanales corredizos en todo el frente Norte — <strong>Terreno: 18.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_03_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_03_1_Planta.svg' alt='Opción 03 (1 Planta): Tipología en 'U' con Piscina Central y Taller Lateral' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Ala izquierda de servicios/social y ala derecha de dormitorios.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_03_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_03_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #04: Opción 04 (1 Planta): Gran Pabellón Social Posterior y Taller Independiente</h2>
+                        <p>Cocina-Living-Comedor ocupan todo el ancho hacia la Galería y Piscina; dormitorios centrales — <strong>Terreno: 16.00 x 34.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_04_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_04_1_Planta.svg' alt='Opción 04 (1 Planta): Gran Pabellón Social Posterior y Taller Independiente' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Secuencia privada adelante y gran salón social al jardín.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_04_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_04_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #05: Opción 05 (1 Planta): Zonificación Día / Noche por Alas y Pasillo Derecho</h2>
+                        <p>Hall central divide el ala social (izquierda) del ala íntima de dormitorios (derecha) — <strong>Terreno: 17.00 x 28.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_05_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_05_1_Planta.svg' alt='Opción 05 (1 Planta): Zonificación Día / Noche por Alas y Pasillo Derecho' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Separación acústica total entre zona social y dormitorios.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_05_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_05_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #06: Opción 06 (1 Planta): Casa con Patio de Luz Central y Pasillo Izquierdo</h2>
+                        <p>Jardín interno vidriado aporta sol y ventilación cruzada al corazón de la vivienda — <strong>Terreno: 15.00 x 32.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_06_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_06_1_Planta.svg' alt='Opción 06 (1 Planta): Casa con Patio de Luz Central y Pasillo Izquierdo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Articulada en torno a un Patio Verde Interno.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_06_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_06_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #07: Opción 07 (1 Planta): Suite Principal al Jardín y Niños en Sector Medio</h2>
+                        <p>La Suite Matrimonial y la Galería-Parrilla comparten primera línea hacia la Piscina — <strong>Terreno: 16.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_07_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_07_1_Planta.svg' alt='Opción 07 (1 Planta): Suite Principal al Jardín y Niños en Sector Medio' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Privacidad para padres al fondo y niños cerca del estudio/acceso.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_07_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_07_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #08: Opción 08 (1 Planta): Lote Ancho con Desarrollo Apaisado al Norte</h2>
+                        <p>Terreno de 20m de frente permite orientar Living, Galería y Dormitorios hacia el jardín — <strong>Terreno: 20.00 x 26.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_08_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_08_1_Planta.svg' alt='Opción 08 (1 Planta): Lote Ancho con Desarrollo Apaisado al Norte' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Planta apaisada de gran amplitud visual y circulación corta.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_08_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_08_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #09: Opción 09 (1 Planta): Solución Eficiente para Terreno Angosto y Profundo</h2>
+                        <p>Crujía optimizada en lote de 13.50m conservando pasillo de máquinas de 1.30m y todos los locales — <strong>Terreno: 13.50 x 35.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_09_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_09_1_Planta.svg' alt='Opción 09 (1 Planta): Solución Eficiente para Terreno Angosto y Profundo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Organización longitudinal sin desperdicio de metros en pasillos.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_09_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_09_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='1'>
+                    <div class='card-header'>
+                        <span class='badge'>1 PLANTA COMPLETA</span>
+                        <h2>Plano #10: Opción 10 (1 Planta): Galería-Quincho Gourmet y Taller al Fondo</h2>
+                        <p>Amplia Galería con Parrilla e isla exterior integrada al Living mediante ventanal corredizo — <strong>Terreno: 17.00 x 32.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_10_1_Planta.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_10_1_Planta.svg' alt='Opción 10 (1 Planta): Galería-Quincho Gourmet y Taller al Fondo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> 1 PLANTA COMPLETA: Gran expansión social cubierta y taller de herramientas en el jardín.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_10_1_Planta.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_10_1_Planta.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #11: Opción 11 (2 Pisos): Planta Baja Social + Planta Alta 3 Dormitorios</h2>
+                        <p>Abajo: Hall, Toilette, Cocina, Living-Comedor, Parrilla, Taller y Piscina | Arriba: Suite + 2 Hab. Niños — <strong>Terreno: 15.00 x 28.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_11_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_11_2_Pisos.svg' alt='Opción 11 (2 Pisos): Planta Baja Social + Planta Alta 3 Dormitorios' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Día, Servicios, Taller y Patios | ARRIBA (PA): Suite Matrimonial + 2 Hab. Niños.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_11_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_11_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #12: Opción 12 (2 Pisos): Suite Matrimonial en PB + Habitaciones Niños en PA</h2>
+                        <p>Abajo: Área Social + Suite Matrimonial completa sin escaleras | Arriba: 2 Hab. Niños + Baño + Estudio — <strong>Terreno: 16.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_12_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_12_2_Pisos.svg' alt='Opción 12 (2 Pisos): Suite Matrimonial en PB + Habitaciones Niños en PA' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Social + Suite Padres (accesibilidad total) | ARRIBA (PA): Nivel exclusivo Niños.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_12_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_12_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #13: Opción 13 (2 Pisos): Living en Doble Altura y Balconeo en Planta Alta</h2>
+                        <p>Abajo: Gran Living de doble altura con ventanal corredizo | Arriba: Suite y 2 Hab. Niños con puente — <strong>Terreno: 16.00 x 28.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_13_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_13_2_Pisos.svg' alt='Opción 13 (2 Pisos): Living en Doble Altura y Balconeo en Planta Alta' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Social en Doble Altura, Parrilla y Taller | ARRIBA (PA): 3 Dormitorios balconeando.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_13_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_13_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #14: Opción 14 (2 Pisos): Planta en 'L' de Dos Niveles y Taller al Fondo</h2>
+                        <p>Abajo: Volumen en 'L' abrazando Piscina + Taller en remate de pasillo | Arriba: Dormitorios al jardín — <strong>Terreno: 17.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_14_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_14_2_Pisos.svg' alt='Opción 14 (2 Pisos): Planta en 'L' de Dos Niveles y Taller al Fondo' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Cocina-Living-Comedor, Galería y Servicios | ARRIBA (PA): Zona íntima completa.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_14_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_14_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #15: Opción 15 (2 Pisos): Huella Compacta con Gran Parque y Piscina Olímpica</h2>
+                        <p>Al concentrar la casa en un prisma de 2 pisos se logran 14m de Patio Trasero libre al Norte — <strong>Terreno: 14.00 x 32.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_15_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_15_2_Pisos.svg' alt='Opción 15 (2 Pisos): Huella Compacta con Gran Parque y Piscina Olímpica' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Planta libre social + Taller al fondo | ARRIBA (PA): 3 Dormitorios y 2 Baños.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_15_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_15_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #16: Opción 16 (2 Pisos): Planta Baja Concepto Abierto Total + PA con Estudio</h2>
+                        <p>Abajo: Gran salón integrado Cocina-Living-Comedor + Taller lateral | Arriba: 3 Dormitorios + Escritorio — <strong>Terreno: 16.00 x 29.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_16_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_16_2_Pisos.svg' alt='Opción 16 (2 Pisos): Planta Baja Concepto Abierto Total + PA con Estudio' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Espacio social continuo sin tabiques | ARRIBA (PA): Descanso y estudio familiar.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_16_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_16_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #17: Opción 17 (2 Pisos): Planta Alta en Voladizo sobre Galería y Parrilla</h2>
+                        <p>La Planta Alta avanza sobre la Galería de Planta Baja generando techo propio y vistas a la Piscina — <strong>Terreno: 15.00 x 30.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_17_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_17_2_Pisos.svg' alt='Opción 17 (2 Pisos): Planta Alta en Voladizo sobre Galería y Parrilla' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Social, Galería bajo voladizo y Taller | ARRIBA (PA): Suite en voladizo + 2 Hab. Niños.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_17_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_17_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #18: Opción 18 (2 Pisos): Terreno Ancho con Todos los Dormitorios al Norte</h2>
+                        <p>En Planta Alta tanto la Suite como las 2 Habitaciones de Niños miran al Patio Trasero y Piscina — <strong>Terreno: 19.00 x 26.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_18_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_18_2_Pisos.svg' alt='Opción 18 (2 Pisos): Terreno Ancho con Todos los Dormitorios al Norte' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Gran frente social + Taller amplio | ARRIBA (PA): 3 Dormitorios alineados al Norte.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_18_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_18_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #19: Opción 19 (2 Pisos): Hijos y Social en PB + Master Suite Privada en PA</h2>
+                        <p>Abajo: 2 Hab. Niños, Baños, Cocina-Living-Comedor, Parrilla y Taller | Arriba: Nivel exclusivo Padres — <strong>Terreno: 16.00 x 31.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_19_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_19_2_Pisos.svg' alt='Opción 19 (2 Pisos): Hijos y Social en PB + Master Suite Privada en PA' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Vida familiar + 2 Hab. Niños con salida al jardín | ARRIBA (PA): Suite Matrimonial Master.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_19_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_19_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div>
+                <div class='card' data-floors='2'>
+                    <div class='card-header'>
+                        <span class='badge'>2 PISOS (PB + PA)</span>
+                        <h2>Plano #20: Opción 20 (2 Pisos): Residencia Familiar Premium con Quincho y Taller</h2>
+                        <p>Abajo: Recepción, Gran Estar-Comedor, Cocina Isla, Galería-Parrilla y Taller | Arriba: Suite + 2 Hab. Niños — <strong>Terreno: 18.00 x 32.00 m</strong></p>
+                    </div>
+                    <div class='card-body'>
+                        <a href='Plano_CAD_20_2_Pisos.svg' target='_blank' title='Abrir Vectorial SVG con Zoom Infinito'>
+                            <img src='Plano_CAD_20_2_Pisos.svg' alt='Opción 20 (2 Pisos): Residencia Familiar Premium con Quincho y Taller' loading='lazy' />
+                        </a>
+                    </div>
+                    <div class='card-footer'>
+                        <span><strong>Criterio de Niveles:</strong> ABAJO (PB): Programa social y de servicio completo | ARRIBA (PA): 3 Dormitorios de gran escala.</span>
+                        <div class='btns'>
+                            <a class='btn' href='Plano_CAD_20_2_Pisos.svg' target='_blank'>🔍 Abrir Vector SVG (Zoom Infinito)</a>
+                            <a class='btn btn-sec' href='Plano_CAD_20_2_Pisos.jpg' target='_blank'>🖼️ Abrir Ultra-HD JPG (4200x2970)</a>
+                        </div>
+                    </div>
+                </div></div>
+<script>
+function filterPlans(f, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.card').forEach(c => {
+        c.style.display = (f === 'all' || c.dataset.floors === f) ? 'block' : 'none';
+    });
+}
+</script>
+</body>
+</html>
